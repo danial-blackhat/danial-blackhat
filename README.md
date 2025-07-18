@@ -49,7 +49,7 @@ _“Turning code and circuits into creative solutions.”_
 ---
 
 <!-- Snake Animation -->
-<img src="img/snake.svg" alt="Snake animation" />
+![snake](https://github.com/user-attachments/assets/fd5cddeb-cbeb-4f79-8d39-1036afdd61b5)
 
 
 <!--
