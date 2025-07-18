@@ -1,5 +1,3 @@
-<img width="666" height="200" alt="header" src="https://github.com/user-attachments/assets/a74a167e-3e8b-4ba6-8468-0a3e0c2ee222" />
-##### Welcome to my Github Portfolio 👋
 
 ![danial-blackhat](img/header.png)
 
