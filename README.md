@@ -7,7 +7,7 @@
 💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`  
 🔧 Hardware Projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`  
 💬 Ask me about: `Web Development` · `Microcontroller Projects` · `Database Design` · `ESP/Arduino Automation` · `IT Troubleshooting`  
-📫 How to reach me: **mrdanial2791@outlook.my**  
+📫 You may reach me at: **mrdanial2791@outlook.my**
 🚀 Passionate about both **web development** and **embedded systems**  
 ⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄
 
