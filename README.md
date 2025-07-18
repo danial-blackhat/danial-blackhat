@@ -1,6 +1,6 @@
 ## Welcome to my Github Portfolio 👋
 
-![danial-blackhat](img/header.png)
+<img width="666" height="200" alt="header" src="https://github.com/user-attachments/assets/a23f7fe0-c2fc-4821-8415-92533e725ad5" />
 
 🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**  
 🌱 I’m currently diving deep into the **Laravel Framework**  
