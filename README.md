@@ -14,12 +14,12 @@
 ---
 
 ##### Skills 
-![danial-blackhat](img/chatgpt.svg)
-![danial-blackhat](img/copilot.svg)
-![danial-blackhat](img/blog.svg)
-![danial-blackhat](img/wix.svg)
-![danial-blackhat](img/mysql.svg)
-![danial-blackhat](img/laravel.svg)
+![chatgpt](https://github.com/user-attachments/assets/06ea1eef-3631-48fe-8ca6-d295216f8be6)
+![copilot](https://github.com/user-attachments/assets/d9677892-15e1-4f22-ab5b-590702fa2707)
+![blog](https://github.com/user-attachments/assets/c40af863-7162-421d-80ce-a34042ca5281)
+![wix](https://github.com/user-attachments/assets/1f62547d-0c62-4500-8555-65979e3bf8ff)
+![mysql](https://github.com/user-attachments/assets/31063e30-29cb-4871-b2c6-7742237d3c42)
+![laravel](https://github.com/user-attachments/assets/9ee206cd-ae00-4481-a3a8-c21119c06a97)
 
 ---
 
