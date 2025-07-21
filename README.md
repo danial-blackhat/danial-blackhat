@@ -1,6 +1,8 @@
 ## Welcome to my Github Portfolio 👋
 
-<img width="661" height="200" alt="header" src="https://github.com/user-attachments/assets/a37bb00c-10fb-4529-8654-a9a9bd4ee862" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/main/github-header-image%20(1).png" alt="header" width="661" height="200" />
+</p>
 
 ---
 
