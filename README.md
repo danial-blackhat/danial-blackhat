@@ -5,15 +5,18 @@
 </p>
 
 ---
+
 <p align="center">
-🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**  <br/>
-🌱 I’m currently diving deep into the **Laravel Framework**  <br/>
-💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`  <br/>
-🔧 Hardware Projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`<br/>
-💬 Ask me about: `Web Development` · `Microcontroller Projects` · `Database Design` · `ESP/Arduino Automation` · `IT Troubleshooting`   <br/>
+
+🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**    <br/>
+🌱 I’m currently diving deep into the **Laravel Framework**   <br/>
+💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`    <br/>
+🔧 Hardware Projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`   <br/>
+💬 Ask me about: `Web Development` · `Microcontroller Projects` · `Database Design` · `ESP/Arduino Automation` · `IT Troubleshooting`   <br/> 
 📫 You may reach me at: **mrdanial2791@outlook.my**  <br/>
 🚀 Passionate about both **web development** and **embedded systems**   <br/>
-⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄  <br/>
+⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄    <br/>
+
 </p>
 
 ---
