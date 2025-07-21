@@ -5,7 +5,7 @@
 </p>
 
 ---
-<p align="center">
+
 🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**  
 🌱 I’m currently diving deep into the **Laravel Framework**  
 💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`  
@@ -14,7 +14,6 @@
 📫 You may reach me at: **mrdanial2791@outlook.my**
 🚀 Passionate about both **web development** and **embedded systems**  
 ⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄
-</p>
 
 ---
 
