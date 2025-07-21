@@ -1,7 +1,7 @@
 ## Welcome to my Github Portfolio 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a37bb00c-10fb-4529-8654-a9a9bd4ee862" alt="header" width="661" height="200" />
+<img width="661" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/7581952b-7fee-4dba-bcd9-d26675eb908a" />
 </p>
 
 ---
