@@ -15,6 +15,7 @@
 🚀 Passionate about both **web development** and **embedded systems**  
 ⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄
 </p>
+
 ---
 
 ##### Skills 
