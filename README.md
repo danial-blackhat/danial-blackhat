@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danial-blackhat&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danial-blackhat&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=danial-blackhat&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danial-blackhat&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danial-blackhat&show_icons=true&theme=tokyonight)
 
