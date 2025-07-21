@@ -1,6 +1,6 @@
 ## Welcome to my Github Portfolio 👋
 
-<img width="661" height="200" alt="header" src="https://github.com/user-attachments/assets/a37bb00c-10fb-4529-8654-a9a9bd4ee862" />
+<img width="661" height="200" alt="header" src="img/github-header-image(1).png" /> />
 
 🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**  
 🌱 I’m currently diving deep into the **Laravel Framework**  
