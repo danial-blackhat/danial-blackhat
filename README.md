@@ -25,9 +25,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=danial-blackhat&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danial-blackhat&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danial-blackhat&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=danial-blackhat&theme=tokyonight" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial-blackhat&layout=compact&theme=tokyonight" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danial-blackhat&show_icons=true&theme=tokyonight" width="350" height="200" />
+</p>
 
 ---
 
