@@ -1,11 +1,11 @@
 ## Welcome to my Github Portfolio 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/main/github-header-image%20(1).png" alt="header" width="661" height="200" />
+  <img src="https://github.com/user-attachments/assets/a37bb00c-10fb-4529-8654-a9a9bd4ee862" alt="header" width="661" height="200" />
 </p>
 
 ---
-
+<p align="center">
 🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**  
 🌱 I’m currently diving deep into the **Laravel Framework**  
 💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`  
@@ -14,7 +14,7 @@
 📫 You may reach me at: **mrdanial2791@outlook.my**
 🚀 Passionate about both **web development** and **embedded systems**  
 ⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄
-
+</p>
 ---
 
 ##### Skills 
