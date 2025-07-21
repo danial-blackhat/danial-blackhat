@@ -52,8 +52,11 @@
 ---
 
 <p align="center">
+  
 _“Turning code and circuits into creative solutions.”_
+
 </p>
+
 
 ---
 
