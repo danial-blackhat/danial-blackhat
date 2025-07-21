@@ -20,6 +20,7 @@
 ![wix](https://github.com/user-attachments/assets/1f62547d-0c62-4500-8555-65979e3bf8ff)
 ![mysql](https://github.com/user-attachments/assets/31063e30-29cb-4871-b2c6-7742237d3c42)
 ![laravel](https://github.com/user-attachments/assets/9ee206cd-ae00-4481-a3a8-c21119c06a97)
+![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
