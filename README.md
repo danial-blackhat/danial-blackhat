@@ -59,8 +59,11 @@ _“Turning code and circuits into creative solutions.”_
 
 ---
 
-<!-- Snake Animation -->
-![snake](https://github.com/user-attachments/assets/fd5cddeb-cbeb-4f79-8d39-1036afdd61b5)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <!--
