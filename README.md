@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p 
   <img src="https://streak-stats.demolab.com/?user=danial-blackhat&theme=tokyonight" width="350" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=danial-blackhat&show_icons=true&theme=tokyonight" width="350" height="200" />
   <div align="center">
