@@ -64,9 +64,6 @@
 
 ---
 
-_“Turning code and circuits into creative solutions.”_
-
----
 
 ##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danial.fx__) 
