@@ -73,6 +73,14 @@ _“Turning code and circuits into creative solutions.”_
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dnial_blackhat) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/danialaydenn) 
 
+---
+
+##### 💻 OS 🔝
+![kali](https://github.com/user-attachments/assets/d053ff59-1214-4597-b1dc-bd8f1e68eaa1)
+
+
+
+
 
 ---
 
