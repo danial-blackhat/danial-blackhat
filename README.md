@@ -12,8 +12,9 @@
 🌱 Exploring advanced concepts in the **Laravel Framework**<br/>
 💻 Proficient in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`<br/>
 🔧 Experienced in hardware-based projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`<br/>
-💬 Feel free to reach out regarding: `Web Development` · `Microcontroller Projects` · `Database Architecture` <br/>
+💬 Feel free to reach out regarding: `Web Development` · `Microcontroller Projects` · `Database Architecture` · `Embedded Automation` · `IT System Troubleshooting`<br/>
 🚀 Passionate about integrating **software development** with **embedded technologies**<br/>
+⚡ Fun fact: I debug both backend code and loose jumper wires—even at 2 AM 😄<br/>
 
 </p>
 
@@ -69,23 +70,14 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dnial_blackhat) 
 
 ---
-
-##### Familiar OS 💻 
-![kali](https://github.com/user-attachments/assets/0548390b-90db-454e-b402-9045a46783cd)
-![ios](https://github.com/user-attachments/assets/a8c8ed52-de13-4dc7-8f0b-f8165bd411d8)
-![windows](https://github.com/user-attachments/assets/5191a517-c5ca-4a6f-ac43-d3b4f60564a3)
-
+  ##### 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
 
 ---
 
 
 <!-- Snake Animation -->
 ![snake](https://github.com/user-attachments/assets/fd5cddeb-cbeb-4f79-8d39-1036afdd61b5)
-
----
-
-  ##### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
 
 
 <!--
