@@ -30,7 +30,6 @@
 ![laravel](https://github.com/user-attachments/assets/9ee206cd-ae00-4481-a3a8-c21119c06a97)
 ![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danial-blackhat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
