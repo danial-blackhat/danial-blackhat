@@ -84,16 +84,6 @@ _“Turning code and circuits into creative solutions.”_
 
 
 ---
-
-##### 🥅 Work/Jobs 🔝
-![frelancer](https://github.com/user-attachments/assets/e0b88f4e-e761-49c3-9180-7cf27df2cfd2)
-![fiver](https://github.com/user-attachments/assets/c916ecbc-74b6-42a8-aef6-10bd71655329)
-
-
-
-
-
----
   ##### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
 
