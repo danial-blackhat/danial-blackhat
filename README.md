@@ -8,17 +8,16 @@
 
 <p align="center">
 
-🔭 I’m currently working as a **Freelance IT Technician & Software Engineer**    <br/>
-🌱 I’m currently diving deep into the **Laravel Framework**   <br/>
-💻 Confident in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`    <br/>
-🔧 Hardware Projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`   <br/>
-💬 Ask me about: `Web Development` · `Microcontroller Projects` · `Database Design` · `ESP/Arduino Automation` · `IT Troubleshooting`   <br/> 
-📫 You may reach me at: **mrdanial2791@outlook.my**  <br/>
-🚀 Passionate about both **web development** and **embedded systems**   <br/>
-⚡ Fun fact: I can debug both PHP code and loose jumper wires at 2AM 😄    <br/>
+🔭 I am currently working as a **Freelance IT Technician & Software Engineer**<br/>
+🌱 Exploring advanced concepts in the **Laravel Framework**<br/>
+💻 Proficient in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`<br/>
+🔧 Experienced in hardware-based projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`<br/>
+💬 Feel free to reach out regarding: `Web Development` · `Microcontroller Projects` · `Database Architecture` · `Embedded Automation` · `IT System Troubleshooting`<br/>
+📫 Contact me at: **mrdanial2791@outlook.my**<br/>
+🚀 Passionate about integrating **software development** with **embedded technologies**<br/>
+⚡ Fun fact: I debug both backend code and loose jumper wires—even at 2 AM 😄<br/>
 
 </p>
-
 
 ---
 
