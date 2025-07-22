@@ -49,7 +49,6 @@
 
 ### 🛠 Tools & Tech Stack
 
-<p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
@@ -60,7 +59,6 @@
   <img src="https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
-</p>
 
 ---
 
