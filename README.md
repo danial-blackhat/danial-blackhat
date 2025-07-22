@@ -69,14 +69,18 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dnial_blackhat) 
 
 ---
-  ##### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
+
 
 ---
 
 
 <!-- Snake Animation -->
 ![snake](https://github.com/user-attachments/assets/fd5cddeb-cbeb-4f79-8d39-1036afdd61b5)
+
+---
+
+  ##### 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
 
 
 <!--
