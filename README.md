@@ -71,7 +71,7 @@ _“Turning code and circuits into creative solutions.”_
 ##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danial.fx__) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dnial_blackhat) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/danialaydenn) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] 
 
 ---
 
