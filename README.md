@@ -64,6 +64,15 @@ _“Turning code and circuits into creative solutions.”_
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=danial-blackhat&icon=6&color=0)](https://visitcount.itsvg.in)
+
+---
+
+  ##### 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrMoneyHeist) 
+
+
+
 <!-- Snake Animation -->
 ![snake](https://github.com/user-attachments/assets/fd5cddeb-cbeb-4f79-8d39-1036afdd61b5)
 
