@@ -12,9 +12,8 @@
 🌱 Exploring advanced concepts in the **Laravel Framework**<br/>
 💻 Proficient in: `PHP` · `HTML` · `CSS` · `MySQL` · `Java`<br/>
 🔧 Experienced in hardware-based projects with: `Arduino` · `ESP32` · `ESP8266` · `Raspberry Pi`<br/>
-💬 Feel free to reach out regarding: `Web Development` · `Microcontroller Projects` · `Database Architecture` · `Embedded Automation` · `IT System Troubleshooting`<br/>
+💬 Feel free to reach out regarding: `Web Development` · `Microcontroller Projects` · `Database Architecture` <br/>
 🚀 Passionate about integrating **software development** with **embedded technologies**<br/>
-⚡ Fun fact: I debug both backend code and loose jumper wires—even at 2 AM 😄<br/>
 
 </p>
 
