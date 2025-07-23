@@ -65,7 +65,9 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
 </p>
+
 ---
+
 
 **”Engineering isn’t just a field. It’s a mindset. It’s seeing a problem and instinctively reaching for a screwdriver, multimeter, or command line.”**
 
