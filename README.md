@@ -2,6 +2,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Danial-IT_Technician_&_Software_Engineer-8E75B2?style=for-the-badge&logo=starship&logoColor=white&labelColor=2F3134" alt="Danial's Professional Badge"/>
   <h3 align="center">Welcome to My Portfolio | Embedded Systems & Web Development</h3>
+  
+  <!-- Resume Button -->
+  <p align="center">
+    <a href="#resume-section">
+      <img src="https://img.shields.io/badge/Resume-View_My_Resume-8E75B2?style=for-the-badge&logo=readme&logoColor=white&labelColor=2F3134" alt="Resume"/>
+    </a>
+  </p>
 </p>
 
 ---
@@ -114,4 +121,24 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danial-blackhat/danial-blackhat/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- Resume Section -->
+<details id="resume-section">
+<summary><h2>📄 Resume</h2></summary>
+
+# Education
+
+- 📖 Malaysian Certificate of Skills in Computer System Operations
+- 📆 7 Sept 2022 > 6 Sept 2023
+- 📍 Intra International College, Selangor, Malaysia
+
+- 📖 Malaysian Skills Diploma in Computer Systems Administration
+- 📆 16 Oct 2023 > 15 Jan 2025
+- 📍 Intra International College, Selangor, Malaysia
+
+## Experience
+
+- 👨‍💻 Freelancer in IT Technology & Software/Hardware Development
+  📆 May 2025 - Present  
+    
+ 
+</details>
