@@ -125,7 +125,7 @@
 <details id="resume-section">
 <summary><h2>📄 Resume</h2></summary>
 
-# Education
+## Education
 
 - 📖 Malaysian Certificate of Skills in Computer System Operations
 - 📆 7 Sept 2022 > 6 Sept 2023
