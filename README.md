@@ -131,7 +131,7 @@
 - 📆 7 Sept 2022 > 6 Sept 2023
 - 📍 Intra International College, Selangor, Malaysia
 
-###
+---
 
 - 📖 Malaysian Skills Diploma in Computer Systems Administration
 - 📆 16 Oct 2023 > 15 Jan 2025
