@@ -35,6 +35,9 @@
 ![xampp](https://github.com/user-attachments/assets/c4ea4cc9-8c4e-4595-9514-0aaaa4df7d8d)
 ![python](https://github.com/user-attachments/assets/f16f3557-316a-47f6-979a-dc1fe21c26c1)
 ![flutter](https://github.com/user-attachments/assets/3fbc799e-abc2-4ecd-b13b-ad88d994de0b)
+![hostinger](https://github.com/user-attachments/assets/e8756edb-3bdd-4de5-8ae4-2ff8f183093f)
+![composer](https://github.com/user-attachments/assets/79501d2a-4a1c-4f22-b60a-b5ce78374cc9)
+![fontawesome](https://github.com/user-attachments/assets/d71a0a6f-cd37-4753-9544-ae1486e6ab7f)
 
 
 ### AI & Tools
@@ -47,6 +50,10 @@
 ![arduino](https://github.com/user-attachments/assets/e292e114-af10-4389-8193-89f35613244c)
 ![raspberrypi](https://github.com/user-attachments/assets/1ee42cbf-bb3d-4193-a599-4c0fae54371e)
 ![espressif](https://github.com/user-attachments/assets/95ee2011-03f0-4992-8201-8ad07c4a11f1)
+
+
+### 🖍 Design
+![canva](https://github.com/user-attachments/assets/3fc43866-bf3b-40db-83f5-9389feb3e3b3)
 
 
 ---
