@@ -31,7 +31,7 @@
 
 ## 🛠 Technical Expertise
 ### Development Skills
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![bootstrap](https://github.com/user-attachments/assets/124202e4-aa8c-4bcd-a057-e2b7c7def733)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
