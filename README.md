@@ -38,6 +38,7 @@
 ![hostinger](https://github.com/user-attachments/assets/e8756edb-3bdd-4de5-8ae4-2ff8f183093f)
 ![composer](https://github.com/user-attachments/assets/79501d2a-4a1c-4f22-b60a-b5ce78374cc9)
 ![fontawesome](https://github.com/user-attachments/assets/d71a0a6f-cd37-4753-9544-ae1486e6ab7f)
+<img src="https://github.com/user-attachments/assets/f5cb86ab-b943-4c1e-9e49-0e91645739fd" alt="php" height="40"/>
 
 
 ### AI & Tools
