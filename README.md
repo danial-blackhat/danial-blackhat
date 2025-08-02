@@ -125,7 +125,7 @@
 <details id="resume-section">
 <summary><h2>📄 Resume</h2></summary>
 
-## Education
+# Education
 
 - 📖 Malaysian Certificate of Skills in Computer System Operations
 - 📆 7 Sept 2022 > 6 Sept 2023
@@ -137,7 +137,7 @@
 - 📆 16 Oct 2023 > 15 Jan 2025
 - 📍 Intra International College, Selangor, Malaysia
 
-## Experience
+# Experience
 
 - 👨‍💻 Internship
 - 📆 30 Sept 2024 > 2 Jan 2025
