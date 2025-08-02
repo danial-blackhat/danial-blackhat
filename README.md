@@ -3,13 +3,6 @@
   <img src="https://img.shields.io/badge/Danial-IT_Technician_&_Software_Engineer-8E75B2?style=for-the-badge&logo=starship&logoColor=white&labelColor=2F3134" alt="Danial's Professional Badge"/>
   <h3 align="center">Welcome to My Portfolio | Embedded Systems & Web Development</h3>
   
-  <!-- Resume Button -->
-  <p align="center">
-    <a href="#resume-section">
-      <img src="https://img.shields.io/badge/Resume-View_My_Resume-8E75B2?style=for-the-badge&logo=readme&logoColor=white&labelColor=2F3134" alt="Resume"/>
-    </a>
-  </p>
-</p>
 
 ---
 
