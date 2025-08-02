@@ -84,9 +84,10 @@
 ---
 
 ## 🌐 Connect
-[![Instagram](https://img.shields.io/badge/Instagram-danial.fx__-E4405F?logo=instagram&style=flat)](https://instagram.com/danial.fx__) 
-[![TikTok](https://img.shields.io/badge/TikTok-@dnial__blackhat-000000?logo=tiktok&style=flat)](https://tiktok.com/@dnial_blackhat) 
-[![GitHub](https://img.shields.io/badge/GitHub-danial--blackhat-181717?logo=github&style=flat)](https://github.com/danial-blackhat)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@danial.fx__-E4405F?logo=instagram&style=flat-square)](https://instagram.com/danial.fx__) 
+[![TikTok](https://img.shields.io/badge/TikTok-@dnial__blackhat-000000?logo=tiktok&style=flat-square)](https://tiktok.com/@dnial_blackhat) 
+[![GitHub](https://img.shields.io/badge/GitHub-danial--blackhat-181717?logo=github&style=flat-square)](https://github.com/danial-blackhat)
 
 ---
 
