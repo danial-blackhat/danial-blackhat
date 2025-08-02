@@ -40,7 +40,7 @@
 ![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?logo=github-copilot&logoColor=white)
 ![gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=google-gemini&logoColor=white)
-![wix](https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white)
+
 
 ### Hardware Proficiency
 ![arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
