@@ -36,6 +36,8 @@
 ![javascript](https://github.com/user-attachments/assets/15e767d6-31d8-41e3-9b3c-d3ce4a55a839)
 ![xampp](https://github.com/user-attachments/assets/c4ea4cc9-8c4e-4595-9514-0aaaa4df7d8d)
 ![python](https://github.com/user-attachments/assets/f16f3557-316a-47f6-979a-dc1fe21c26c1)
+![flutter](https://github.com/user-attachments/assets/3fbc799e-abc2-4ecd-b13b-ad88d994de0b)
+
 
 ### AI & Tools
 ![chatgpt](https://github.com/user-attachments/assets/ce06faa2-bd80-4696-a648-b4d313bda929)
@@ -45,8 +47,9 @@
 
 ### Hardware Proficiency
 ![arduino](https://github.com/user-attachments/assets/e292e114-af10-4389-8193-89f35613244c)
-![esp32](https://img.shields.io/badge/ESP32-black?logo=espressif&logoColor=white)
 ![raspberrypi](https://github.com/user-attachments/assets/1ee42cbf-bb3d-4193-a599-4c0fae54371e)
+![espressif](https://github.com/user-attachments/assets/95ee2011-03f0-4992-8201-8ad07c4a11f1)
+
 
 ---
 
@@ -63,14 +66,14 @@
 
 ## ⚙️ Technology Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white" height="40">
+  ![php](https://github.com/user-attachments/assets/f5cb86ab-b943-4c1e-9e49-0e91645739fd)
+  ![mysql](https://github.com/user-attachments/assets/527192f0-7cae-4298-bcd9-fbe0d5969e34)
+  ![html5](https://github.com/user-attachments/assets/db145168-fd93-4f8f-8398-3bd39c1d42c1)
+  ![css3](https://github.com/user-attachments/assets/5f863bd6-8507-411e-93a7-5dcb57be8fc8)
+  ![javascript](https://github.com/user-attachments/assets/595d20bc-ac7d-4dc4-adc3-60277c263b50)
+  ![markdown](https://github.com/user-attachments/assets/33b6f154-da13-4293-a480-bfab05d00716)
+  ![python](https://github.com/user-attachments/assets/dba76caf-6474-4421-9f10-f42f74a0c5d8)
+  ![arduino](https://github.com/user-attachments/assets/e298b72b-a723-4751-8334-7e7b118e483b)
 </p>
 
 ---
