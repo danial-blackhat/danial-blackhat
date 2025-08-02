@@ -140,7 +140,7 @@
 ## Experience
 
 - 👨‍💻 Freelancer in IT Technology & Software/Hardware Development
-  📆 May 2025 - Present  
+- 📆 May 2025 - Present  
     
  
 </details>
