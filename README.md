@@ -32,8 +32,8 @@
 ## 🛠 Technical Expertise
 ### Development Skills
 ![bootstrap](https://github.com/user-attachments/assets/124202e4-aa8c-4bcd-a057-e2b7c7def733)
-![mysql](https://github.com/user-attachments/assets/0780f99e-4e91-463f-85b8-3af3154a9d62)
-![java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![mysql](https://github.com/user-attachments/assets/a55e5696-42ad-4837-9bbe-ed9fdb5e8b21)
+![javascript](https://github.com/user-attachments/assets/15e767d6-31d8-41e3-9b3c-d3ce4a55a839)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ### AI & Tools
