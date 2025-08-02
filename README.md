@@ -32,7 +32,7 @@
 ## 🛠 Technical Expertise
 ### Development Skills
 ![bootstrap](https://github.com/user-attachments/assets/124202e4-aa8c-4bcd-a057-e2b7c7def733)
-![myrswl](https://github.com/user-attachments/assets/73f7db98-62f5-4d37-a9fa-0c629e578f4f)
+![mysql](https://github.com/user-attachments/assets/0780f99e-4e91-463f-85b8-3af3154a9d62)
 ![java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
