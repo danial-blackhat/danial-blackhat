@@ -74,8 +74,9 @@
 
 ---
 
-## ⚙️ Technology Stack
-
+## 👨‍💻 Office 🔝
+![libre](https://github.com/user-attachments/assets/ff7ee04c-57ca-4fb6-b0c4-daea5435fa70)
+![microsoftoeffice](https://github.com/user-attachments/assets/72532e69-e7c5-464c-8042-0a7d0397cbfb)
 
 
 ---
@@ -83,6 +84,8 @@
 ## 💻 OS 🔝
   ![kali](https://github.com/user-attachments/assets/893d74ac-7d6a-49eb-a96d-f77766e30669)
   ![windows11](https://github.com/user-attachments/assets/a7c491c6-1ba9-4b92-ad19-eda035309b82)
+  ![ios](https://github.com/user-attachments/assets/eabf822a-3e71-475c-be57-760b1f13a50c)
+
 
 ---
 
