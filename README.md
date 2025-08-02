@@ -1,8 +1,6 @@
 <!-- Professional Header with Badge Identity -->
-<p align="center">
   <img src="https://img.shields.io/badge/Danial-IT_Technician_&_Software_Engineer-8E75B2?style=for-the-badge&logo=starship&logoColor=white&labelColor=2F3134" alt="Danial's Professional Badge"/>
   <h3 align="center">Welcome to My Portfolio | Embedded Systems & Web Development</h3>
-</p>
 
 ---
 
@@ -18,14 +16,12 @@
 ---
 
 ## 👨‍💻 Professional Profile
-<p align="center">
 🔭 <strong>Current Role:</strong> Freelance IT Technician & Software Engineer<br/>
 🌱 <strong>Learning Focus:</strong> Advanced Laravel Framework<br/>
 💻 <strong>Core Languages:</strong> PHP · HTML · CSS · MySQL · Java<br/>
 🔧 <strong>Hardware Platforms:</strong> Arduino · ESP32 · ESP8266 · Raspberry Pi<br/>
 🚀 <strong>Specialization:</strong> Software-hardware integration solutions<br/>
 💬 <strong>Consultation Areas:</strong> Web Architecture · Embedded Systems · Database Design<br/>
-</p>
 
 ---
 
