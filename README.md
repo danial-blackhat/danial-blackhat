@@ -75,6 +75,9 @@
   <img src="https://github.com/user-attachments/assets/dba76caf-6474-4421-9f10-f42f74a0c5d8" alt="python" height="40"/>
   <img src="https://github.com/user-attachments/assets/e298b72b-a723-4751-8334-7e7b118e483b" alt="arduino" height="40"/>
 
+## 💻 OS 🔝
+  ![kali](https://github.com/user-attachments/assets/893d74ac-7d6a-49eb-a96d-f77766e30669)
+  ![windows11](https://github.com/user-attachments/assets/a7c491c6-1ba9-4b92-ad19-eda035309b82)
 
 ---
 
