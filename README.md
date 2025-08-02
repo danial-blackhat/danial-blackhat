@@ -144,6 +144,8 @@
  
 </details>
 
+---
+
 ### Let's Play Some Game
 
 <picture>
