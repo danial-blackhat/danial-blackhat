@@ -34,18 +34,19 @@
 ![bootstrap](https://github.com/user-attachments/assets/124202e4-aa8c-4bcd-a057-e2b7c7def733)
 ![mysql](https://github.com/user-attachments/assets/a55e5696-42ad-4837-9bbe-ed9fdb5e8b21)
 ![javascript](https://github.com/user-attachments/assets/15e767d6-31d8-41e3-9b3c-d3ce4a55a839)
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![xampp](https://github.com/user-attachments/assets/c4ea4cc9-8c4e-4595-9514-0aaaa4df7d8d)
+![python](https://github.com/user-attachments/assets/f16f3557-316a-47f6-979a-dc1fe21c26c1)
 
 ### AI & Tools
-![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-![copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?logo=github-copilot&logoColor=white)
-![gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=google-gemini&logoColor=white)
+![chatgpt](https://github.com/user-attachments/assets/ce06faa2-bd80-4696-a648-b4d313bda929)
+![copilot](https://github.com/user-attachments/assets/86e49dff-4e98-44c0-8ca8-a3be4862d265)
+![gemini](https://github.com/user-attachments/assets/960918f6-8c12-4707-a6c9-ed3ab307bf83)
 
 
 ### Hardware Proficiency
-![arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![arduino](https://github.com/user-attachments/assets/e292e114-af10-4389-8193-89f35613244c)
 ![esp32](https://img.shields.io/badge/ESP32-black?logo=espressif&logoColor=white)
-![raspberrypi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
+![raspberrypi](https://github.com/user-attachments/assets/1ee42cbf-bb3d-4193-a599-4c0fae54371e)
 
 ---
 
