@@ -143,6 +143,7 @@
 - 📆 30 Sept 2024 > 2 Jan 2025
 - 📍 BHBK Group Sdn Bhd (Penang) 
 
+---
 
 - 👨‍💻 Freelancer in IT Technology & Software/Hardware Development
 - 📆 May 2025 - Present  
