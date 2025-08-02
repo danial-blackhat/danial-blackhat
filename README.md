@@ -65,16 +65,18 @@
 ---
 
 ## ⚙️ Technology Stack
+
 <p align="center">
-  ![php](https://github.com/user-attachments/assets/f5cb86ab-b943-4c1e-9e49-0e91645739fd)
-  ![mysql](https://github.com/user-attachments/assets/527192f0-7cae-4298-bcd9-fbe0d5969e34)
-  ![html5](https://github.com/user-attachments/assets/db145168-fd93-4f8f-8398-3bd39c1d42c1)
-  ![css3](https://github.com/user-attachments/assets/5f863bd6-8507-411e-93a7-5dcb57be8fc8)
-  ![javascript](https://github.com/user-attachments/assets/595d20bc-ac7d-4dc4-adc3-60277c263b50)
-  ![markdown](https://github.com/user-attachments/assets/33b6f154-da13-4293-a480-bfab05d00716)
-  ![python](https://github.com/user-attachments/assets/dba76caf-6474-4421-9f10-f42f74a0c5d8)
-  ![arduino](https://github.com/user-attachments/assets/e298b72b-a723-4751-8334-7e7b118e483b)
+  <img src="https://github.com/user-attachments/assets/f5cb86ab-b943-4c1e-9e49-0e91645739fd" alt="php" height="40"/>
+  <img src="https://github.com/user-attachments/assets/527192f0-7cae-4298-bcd9-fbe0d5969e34" alt="mysql" height="40"/>
+  <img src="https://github.com/user-attachments/assets/db145168-fd93-4f8f-8398-3bd39c1d42c1" alt="html5" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5f863bd6-8507-411e-93a7-5dcb57be8fc8" alt="css3" height="40"/>
+  <img src="https://github.com/user-attachments/assets/595d20bc-ac7d-4dc4-adc3-60277c263b50" alt="javascript" height="40"/>
+  <img src="https://github.com/user-attachments/assets/33b6f154-da13-4293-a480-bfab05d00716" alt="markdown" height="40"/>
+  <img src="https://github.com/user-attachments/assets/dba76caf-6474-4421-9f10-f42f74a0c5d8" alt="python" height="40"/>
+  <img src="https://github.com/user-attachments/assets/e298b72b-a723-4751-8334-7e7b118e483b" alt="arduino" height="40"/>
 </p>
+
 
 ---
 
